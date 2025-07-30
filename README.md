@@ -50,7 +50,7 @@ Here are some of the key projects I'm working on:
 
 - 🌐 [Portfolio Website](https://sites.google.com/view/simaranrajora/home)
 - 💼 [LinkedIn](https://www.linkedin.com/in/simaran-rajora/)
-- 📧 Email: simaranrajora.bio@gmail.com
+- 📧 Email: r.simaran22@gmail.com
 
 ---
 
