@@ -9,7 +9,7 @@
 
 ### 👩‍💻 About Me
 
-- 🔬 I'm a **Bioinformatics Research Associate** at Advanta Seeds (UPL), working on large-scale **plant genomics**, **SNP marker discovery**, and **genomic prediction models**
+- 🔬 I'm a **Bioinformatics Scientist** at Advanta Seeds (UPL), working on large-scale **plant genomics**, **SNP marker discovery**, and **genomic prediction models**
 - 🌱 Passionate about **AI-powered genomics**, **GWAS**, **variant calling**, and **drought-tolerant crop research**
 - 🌍 Actively building a portfolio with hands-on projects in **cancer bioinformatics**, **plant breeding**, and **machine learning in genomics**
 - 🎯 Looking for impactful roles in **bioinformatics, computational biology**, or **AI-driven biotech** (preferably in California 🇺🇸)
