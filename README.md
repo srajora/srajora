@@ -6,5 +6,7 @@ Currently at Advanta Seeds (UPL) · Based in California · Open to biopharma & c
 About Me
 
 🔬 Working on large-scale GWAS, SNP marker discovery, and variant calling across crop species
+
 🧬 Building pipelines for RNA-seq, multi-omics integration, and genomic prediction
+
 🎯 Transitioning expertise toward human health, clinical genomics, and AI-driven biotech
